@@ -1,0 +1,105 @@
+\chapter{Cibercrime}
+
+\epigraph{For hard cash, we will lie and deceive\\Even our masters don't know the web we weave} {Dogs Of War - Pink Floyd}
+
+Segundo o livro \emph{Desvendando a Computação Forense} \cite{DCF2011}, existem dois tipos de crimes ligados aos computadores. No primeiro, o computador é uma ferramenta para a prática do ilícito, como seria o papel ou caneta; já o outro o computador é próprio meio do crime, ou seja, sem o mesmo o crime não poderia acontecer.
+
+De acordo com \emph{Incident Response: Computer Forensics Toolkit} \cite{SCH2003} o \emph{Departamento de de Justiça} norte americano prevê três ocasiões onde o crime se comuta com a computação, sendo eles, quando o computador é o alvo de ataque (virus, malware, invasão, phishing), serve para armazenamento de dados crimosos (contabilidade de traficantes) e como ferramenta para cometer o delito (plano do crime num documento).
+
+Como vimos, o departamento de justiça norte americano ainda define mais uma forma do computador estar envolvido em atos ilícitos a qual seria o armazenamento de dados crimosos como é o caso da contabilidade contida num arquivo do Excel\footnote{Microsoft Excel} referente ao tráfico de drogas. Contudo ao armazenar informações no computador o mesmo estaria sendo usado como ferramenta.
+
+Já a Wikipédia \cite{WIKCI} define cybercrime da seguinte forma: 
+
+\begin{citacao}
+Crime informático, e-crime, cybercrime, crimes eletrônicos ou crime digital são termos utilizados para se referir a toda a atividade onde um computador ou uma rede de computadores é utilizada como uma ferramenta, uma base de ataque ou como meio de crime.
+\end{citacao}
+
+O que podemos afirmar com base nas referências e lógicas mostradas acima é que cibercrime é todo crime que tem o computador ou redes como seu principal meio.
+
+\section{Crimes de informática mais comuns}
+
+``Segundo o IPDI (Instituto de Peritos em Tecnologias Digitais e Telecomunicações), pessoas que usam a informática para roubar identidades podem responder por estelionato, furto mediante fraude, intercepção de dados, quebra de sigilo bancário e formação de quadrilha.'' \cite{FLCC}
+
+\begin{itemize}
+  \item[$\bullet$]Roubo de Identidade: os internautas são enganados tendo sua identidade tomada para realização de compras on-line, transferências financeiras indevidas, etc; 
+  \item[$\bullet$]Pedofilia: criação de sites e/ou fornecimento/compartilhamento de material relacionado ao abuso sexual infantil; 
+  \item[$\bullet$]Calúnia e Difamação: divulgação de informações não verídicas, prejudiciais à vítima. Muito comum nos sites de relacionamentos;
+  \item[$\bullet$]Ameaça: e-mail, post em sites, com intuito ameaçador à vítima; 
+  \item[$\bullet$]Discriminação: divulgação de conteúdo relacionado ao preconceito - raça, religião, cor, etnia, procedência. Também muito comum com o crescimento das redes sociais; 
+  \item[$\bullet$]Fraudes; e
+  \item[$\bullet$]Espionagem Industrial: aquisição de informação sigilosa de uma empresa por um concorrente. Com o avanço tecnológico e a falta ou falha de controles de segurança, essa prática tem se intensivado, sendo facilitada pela quantidade de informações que se pode carregar em um dispositivo móvel.
+\end{itemize}
+
+\section{Fraudes}
+
+Como pode ser observado nos estudos da CERT.br \cite{CERT} apresentado na figura \ref{fig:estatisticas-quadro-geral-incidentes}, a fraude é um dos incidentes com maior ocorrência na atualidade.
+
+\pagebreak
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=0.8]{Figuras/estatisticas-quadro-geral-incidentes}
+	\caption{Incidentes Reportados - 2012}
+	\label{fig:estatisticas-quadro-geral-incidentes}
+\end{figure}
+
+Dentro dos incidentes de fraude reportados pela \cite{CERT}, pode-se constatar que a utilização de páginas falsas para ludibriar o usuário ocupa a maior faixa de ocorrências, atingindo mais de 50\% dos incidentes, o que pode ser demonstrado na figura \ref{fig:estatisticas-fraudes-reportadas}.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=0.75]{Figuras/estatisticas-fraudes-reportadas}
+	\caption{Tentativas de Fraudes Reportadas - 2012}
+	\label{fig:estatisticas-fraudes-reportadas}
+\end{figure}
+
+\subsection{Agentes da Fraude}
+
+Os agentes de fraudes podem ser de origem externa (o invasor sem confiança) ou interna (funcionários com total confiança pelos sistemas da corporação). Algumas fraudes mais elaboradas apresentam a participação de ambos agentes, sendo esta uma das formas mais utilizadas por organizações criminosas.
+
+Dentro das fraudes cometidas por agentes internos, quando em cargos de chefia, pode-se destacar o prejuízo acentuado causado à organização tendo visto em muitas vezes a falta de punição. \cite[p.~18-20]{GIL}.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=0.6]{Figuras/riscos-em-ordem-de-importancia}
+	\caption{Riscos de negócios em ordem de importância para a organização\cite{SYMANTECREL2011}}
+	\label{fig:riscos-em-ordem-de-importancia}
+\end{figure}
+
+Como mostra o relatório de segurança da Symantec\footnote{\cite{SYMANTECREL2011}}, os incidentes de segurança causados por cibercrime e por agentes internos são considerados os de maior risco para as organizações. Assim como as ameaças mais significantes estão por conta da ação dos hackers, ou agentes externos.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=0.5]{Figuras/ameacas-significantes}
+	\caption{Ameaças à segurança pouco/extremamente significativas \cite{SYMANTECREL2011}}
+	\label{fig:ameacas-significantes}
+\end{figure}
+
+\section{Cibercrime Brasileiro}
+
+O e-crime está cada vez mais envolvido com o crime convencional, ``geralmente alimenta outros crimes, como o narcotráfico'', ressalta Fábio Assonlini, analista de malware da Kaspersky no Brasil. 
+
+O Brasil lidera o ranking com maior número de bankers do mundo. No Brasil o cibercrimosos envolvidos com o roubo de dados bancários e clone de cartões ficou conhecido como ``Raul'' \cite{ADCC}. Os crimosos se vangloriam e expõem suas conquistas na própria internet, onde temos diversos exemplos de músicas que até mostram do modus operandi da coleta dos dados até a melhor forma de utilização \cite{FUNK}. Os brasileiros foram os primeiros a criarem um banker rootkit para arquitetura x64 (64 bit).
+
+\subsection{Perfil do Banker Brasileiro}
+
+Em geral o perfil do banker brasileiro é jovem, de baixa renda, que obtém códigos maliciosos de outros (Figura \ref{fig:CompraBot01}) para aplicar seus golpes.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=1]{Figuras/CompraBot01}
+	\caption{Anúncio de botnet \cite{KAS}}
+	\label{fig:CompraBot01}
+\end{figure}
+
+\pagebreak
+
+Existem sites de comercialização de códigos maliciosos espalhados pela internet, e alguns inclusive com direito a reclamações de não entrega dos produtos (Figura \ref{fig:CompraBot02}).
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=1]{Figuras/CompraBot02}
+	\caption{"Procon" do site de vendas \cite{KAS}}
+	\label{fig:CompraBot02}
+\end{figure}
+
+Outro assunto pertinente e curioso a respeito do cibercrime brasileiros é que para começar na vida crimosa virtual com maior conforto e menos esforço existem até cursos onlines que ensinam atacar sites financeiros e a mandar spam \cite{SWKK}.
