@@ -1,0 +1,138 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: fraudes.aux
+A level-1 auxiliary file: capa.aux
+A level-1 auxiliary file: folharosto.aux
+A level-1 auxiliary file: pre_introducao.aux
+A level-1 auxiliary file: introducao.aux
+A level-1 auxiliary file: objetivos.aux
+A level-1 auxiliary file: cibercrime.aux
+A level-1 auxiliary file: arquitetura.aux
+A level-1 auxiliary file: metodologia.aux
+A level-1 auxiliary file: prevencao.aux
+A level-1 auxiliary file: legislacao.aux
+A level-1 auxiliary file: combate.aux
+A level-1 auxiliary file: produtos.aux
+A level-1 auxiliary file: cases.aux
+A level-1 auxiliary file: recuperacao_perdas.aux
+A level-1 auxiliary file: conclusao.aux
+The style file: abnt-alf.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: abnt-options.bib
+Database file #2: bb.bib
+Warning--entry type for "WIKCI" isn't style-file defined
+--line 27 of file bb.bib
+Warning--entry type for "FLCC" isn't style-file defined
+--line 35 of file bb.bib
+Warning--entry type for "PL27903" isn't style-file defined
+--line 51 of file bb.bib
+Warning--entry type for "PL84" isn't style-file defined
+--line 59 of file bb.bib
+Warning--entry type for "PCI" isn't style-file defined
+--line 67 of file bb.bib
+Warning--entry type for "ISO27000" isn't style-file defined
+--line 75 of file bb.bib
+Warning--entry type for "CERT" isn't style-file defined
+--line 100 of file bb.bib
+Warning--entry type for "ESTADAO" isn't style-file defined
+--line 108 of file bb.bib
+Warning--entry type for "CAMARGO" isn't style-file defined
+--line 124 of file bb.bib
+Warning--entry type for "MODUSOPE" isn't style-file defined
+--line 132 of file bb.bib
+Warning--entry type for "IC3" isn't style-file defined
+--line 147 of file bb.bib
+Warning--entry type for "MONITORFRAUDES" isn't style-file defined
+--line 155 of file bb.bib
+Warning--entry type for "PARTNERSALES" isn't style-file defined
+--line 173 of file bb.bib
+Warning--entry type for "ACIPAYMENT" isn't style-file defined
+--line 181 of file bb.bib
+Warning--entry type for "CANITANTISPAM" isn't style-file defined
+--line 189 of file bb.bib
+Warning--entry type for "RIO20" isn't style-file defined
+--line 197 of file bb.bib
+Warning--entry type for "DWKS" isn't style-file defined
+--line 212 of file bb.bib
+Warning--entry type for "ADBV" isn't style-file defined
+--line 220 of file bb.bib
+Warning--entry type for "ADCC" isn't style-file defined
+--line 228 of file bb.bib
+Warning--entry type for "FUNK" isn't style-file defined
+--line 236 of file bb.bib
+Warning--entry type for "KAS" isn't style-file defined
+--line 244 of file bb.bib
+Warning--entry type for "NORTON" isn't style-file defined
+--line 252 of file bb.bib
+Warning--entry type for "SWKK" isn't style-file defined
+--line 260 of file bb.bib
+Warning--entry type for "TOOLKIT" isn't style-file defined
+--line 267 of file bb.bib
+Warning--entry type for "ENDPOINTD1" isn't style-file defined
+--line 275 of file bb.bib
+Warning--entry type for "ENDPOINTD2" isn't style-file defined
+--line 283 of file bb.bib
+Warning--entry type for "SYMANTEC" isn't style-file defined
+--line 291 of file bb.bib
+Warning--entry type for "SYMANPRO" isn't style-file defined
+--line 299 of file bb.bib
+Warning--entry type for "CISCO" isn't style-file defined
+--line 307 of file bb.bib
+Warning--entry type for "NACOV" isn't style-file defined
+--line 315 of file bb.bib
+Warning--entry type for "NACI" isn't style-file defined
+--line 323 of file bb.bib
+Warning--entry type for "NACAG" isn't style-file defined
+--line 331 of file bb.bib
+Warning--entry type for "CHECKPOINT1" isn't style-file defined
+--line 339 of file bb.bib
+Warning--entry type for "CHECKPOINT2" isn't style-file defined
+--line 347 of file bb.bib
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
++---------------------------------------------------------+
+| Estilo bibliografico abnt-alf.bst versao 1.53           |
+| Implementa a NBR6023, NBR10520 e NBR10523               |
+| Em caso de duvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 44 entries,
+            6522 wiz_defined-function locations,
+            1391 strings with 14812 characters,
+and the built_in function-call counts, 27488 in all, are:
+= -- 2162
+> -- 734
+< -- 2
++ -- 301
+- -- 240
+* -- 1678
+:= -- 3929
+add.period$ -- 170
+call.type$ -- 45
+change.case$ -- 286
+chr.to.int$ -- 42
+cite$ -- 43
+duplicate$ -- 1254
+empty$ -- 2589
+format.name$ -- 1108
+if$ -- 6675
+int.to.chr$ -- 8
+int.to.str$ -- 0
+missing$ -- 727
+newline$ -- 220
+num.names$ -- 215
+pop$ -- 976
+preamble$ -- 1
+purify$ -- 137
+quote$ -- 0
+skip$ -- 1770
+stack$ -- 1
+substring$ -- 832
+swap$ -- 469
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 260
+width$ -- 0
+write$ -- 614
+(There were 34 warnings)

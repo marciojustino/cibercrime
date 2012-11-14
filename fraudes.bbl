@@ -1,0 +1,276 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.53 }
+
+\bibitem[Adrenaline 2010]{ADBV}
+\abntrefinfo{Adrenaline}{ADRENALINE}{2010}
+{ADRENALINE. \emph{Brasil lidera criação de vírus que roubam dados bancários}.
+  2010.
+Dispon{\'\i}vel em:
+  $<$http://adrenaline.uol.com.br/seguranca/noticias/6046/brasil-lidera-criaca%
+o-de-virus-que-roubam-dados-bancarios.html$>$.}
+
+\bibitem[Adrenaline 2011]{ADCC}
+\abntrefinfo{Adrenaline}{ADRENALINE}{2011}
+{ADRENALINE. \emph{Como funciona o cibercrime brasileiro}. 2011.
+Dispon{\'\i}vel em:
+  $<$http://adrenaline.uol.com.br/seguranca/artigos/162/como-funciona-o-ciberc%
+rime-brasileiro.html$>$.}
+
+\bibitem[Bastos e Pereira 2007]{FRAUELE}
+\abntrefinfo{Bastos e Pereira}{BASTOS; PEREIRA}{2007a}
+{BASTOS, P. S.~S.; PEREIRA, R.~M. Fraudes eletrÔnicas: O que hÁ de novo?
+2007.
+Dispon{\'\i}vel em:
+  $<$http://www.sergiomariz.com/mcc.uerj/index2.php?option=com\_docman\&task=d%
+oc\_view\&gid=20\&Itemid=51$>$.}
+
+\bibitem[Bastos e Pereira 2007]{FRAUDECARTAOCIELO}
+\abntrefinfo{Bastos e Pereira}{BASTOS; PEREIRA}{2007b}
+{BASTOS, P. S.~S.; PEREIRA, R.~M. Fraudes eletrÔnicas: O que hÁ de novo?
+2007.}
+
+\bibitem[Camargo 2005]{CAMARGO}
+\abntrefinfo{Camargo}{CAMARGO}{2005}
+{CAMARGO, F. \emph{Fraudes eletrônicas assustam setor financeiro}. 2005.
+Dispon{\'\i}vel em: $<$http://webinsider.uol.com.br/imprimir.php?id=2045$>$.}
+
+\bibitem[Carpanez 2012]{FLCC}
+\abntrefinfo{Carpanez}{CARPANEZ}{2012}
+{CARPANEZ, J. \emph{Conheça os crimes virtuais mais comuns}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www1.folha.uol.com.br/folha/informatica/ult124u19455.shtml$>$.}
+
+\bibitem[Cartão 2012]{FUNK}
+\abntrefinfo{Cartão}{CARTãO}{2012}
+{CARTãO, V. Y.~B. dos. \emph{Video Youtube: Bonde dos Cartão}. 2012.
+Dispon{\'\i}vel em: $<$http://www.youtube.com/watch?v=XXnQgv9F0yc$>$.}
+
+\bibitem[CERT.br 2012]{CERT}
+\abntrefinfo{CERT.br}{CERT.BR}{2012}
+{CERT.BR. \emph{Núcleo de Informação e Coordenação do Ponto BR}. 2012.
+Dispon{\'\i}vel em: $<$http://www.cert.br/$>$.}
+
+\bibitem[CISCO 2012]{NACAG}
+\abntrefinfo{CISCO}{CISCO}{2012a}
+{CISCO. \emph{Cisco NAC Appliance Agents}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www.cisco.com/en/US/docs/security/nac/appliance/configuration\_gui%
+de/461/cam/m\_webagt.html$>$.}
+
+\bibitem[CISCO 2012]{CISCO}
+\abntrefinfo{CISCO}{CISCO}{2012b}
+{CISCO. \emph{CISCO Web site}. 2012.
+Dispon{\'\i}vel em: $<$www.cisco.com$>$.}
+
+\bibitem[CISCO 2012]{NACI}
+\abntrefinfo{CISCO}{CISCO}{2012c}
+{CISCO. \emph{Implementing Network Admission Control}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://i.i.com.com/cnwk.1d/i/tr/downloads/home/1587052539\_chapter\_6.pdf%
+$>$.}
+
+\bibitem[CISCO 2012]{NACOV}
+\abntrefinfo{CISCO}{CISCO}{2012d}
+{CISCO. \emph{NAC Solution And Technology Overview}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www.informit.com/content/images/1587052253/samplechapter/158705225%
+3ch1.pdf$>$.}
+
+\bibitem[COBIT 2012]{COBIT}
+\abntrefinfo{COBIT}{COBIT}{2012}
+{COBIT. \emph{COBIT 5}. [s.n.], 2012. Dispon{\'\i}vel em:
+  $<$https://www.isaca.org/COBIT/pages/default.aspx$>$.}
+
+\bibitem[Gil 1991]{GIL}
+\abntrefinfo{Gil}{GIL}{1991}
+{GIL, A. de L. \emph{Fraudes Informatizadas}. 2ª. ed. São Paulo: Atlas, 1991.}
+
+\bibitem[Grossmann 2012]{RIO20}
+\abntrefinfo{Grossmann}{GROSSMANN}{2012}
+{GROSSMANN, L.~O. \emph{Crimes cibernéticos: Polícia Federal faz teste de larga
+  escala com Rio+20}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://convergenciadigital.uol.com.br/cgi/cgilua.exe/sys/start.htm?infoid%
+=30670\&sid=18$>$.}
+
+\bibitem[IC3 2012]{IC3}
+\abntrefinfo{IC3}{IC3}{2012}
+{IC3. \emph{Internet Crime Complaint Center}. 2012.
+Dispon{\'\i}vel em: $<$http://www.ic3.gov/default.aspx$>$.}
+
+\bibitem[ISO 2009]{ISO27000}
+\abntrefinfo{ISO}{ISO}{2009}
+{ISO. \emph{ISO 27000}. 2009.
+Dispon{\'\i}vel em:
+  $<$http://www.iso.org/iso/iso\_catalogue/catalogue\_tc/catalogue\_detail.htm%
+?csnumber=41933$>$.}
+
+\bibitem[Kaspersky 2012]{KAS}
+\abntrefinfo{Kaspersky}{KASPERSKY}{2012}
+{KASPERSKY. \emph{Kaspersky}. 2012.
+Dispon{\'\i}vel em: $<$kaspersky.com$>$.}
+
+\bibitem[Machado e Eleut\'erio 2011]{DCF2011}
+\abntrefinfo{Machado e Eleut\'erio}{MACHADO; ELEUT\'ERIO}{2011}
+{MACHADO, M.~P.; ELEUT\'ERIO, P.~M. da S. \emph{Desvendando a Computação
+  Forense}. [S.l.]: Novatec, 2011.
+ISBN 978-85-7522-260-7.}
+
+\bibitem[O'Connor 2010]{MODUSOPE}
+\abntrefinfo{O'Connor}{O'CONNOR}{2010}
+{O'CONNOR, T. \emph{THE MODUS OPERANDI OF HACKING}. 2010.
+Dispon{\'\i}vel em: $<$http://www.drtomoconnor.com/3100/3100lect04.htm$>$.}
+
+\bibitem[Parodi 2012]{MONITORFRAUDES}
+\abntrefinfo{Parodi}{PARODI}{2012}
+{PARODI, L. \emph{Monitor das Fraudes}. 2012.
+Dispon{\'\i}vel em: $<$http://www.fraudes.org/$>$.}
+
+\bibitem[PCI 2012]{PCI}
+\abntrefinfo{PCI}{PCI}{2012}
+{PCI. \emph{PCI}. 2012.
+Dispon{\'\i}vel em: $<$https://www.pcisecuritystandards.org/$>$.}
+
+\bibitem[Penal 1940]{CODPENAL}
+\abntrefinfo{Penal}{PENAL}{1940}
+{PENAL, C. \emph{Código Penal}. Rio de Janeiro: [s.n.], 1940. Dispon{\'\i}vel
+  em:
+  $<$http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=15%
+028$>$.}
+
+\bibitem[Petry 2012]{ESTADAO}
+\abntrefinfo{Petry}{PETRY}{2012}
+{PETRY, R. \emph{Débito deve ultrapassar cartão crédito em 2012}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://blogs.estadao.com.br/jt-seu-bolso/tag/associacao-brasileira-das-em%
+presas-de-cartoes-de-credito-e-servicos/$>$.}
+
+\bibitem[Piauhylino 1999]{PL84}
+\abntrefinfo{Piauhylino}{PIAUHYLINO}{1999}
+{PIAUHYLINO, L. \emph{PL 84/1999}. 1999.
+Dispon{\'\i}vel em:
+  $<$http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=15%
+028$>$.}
+
+\bibitem[Pinheiro 2009]{PARTNERSALES}
+\abntrefinfo{Pinheiro}{PINHEIRO}{2009}
+{PINHEIRO, P.~P. \emph{Como prevenir e combater a fraude eletrônica?} 2009.
+Dispon{\'\i}vel em:
+  $<$http://www.partnersales.com.br/artigo/48/como-prevenir-e-combater-a-fraud%
+e-eletronica$>$.}
+
+\bibitem[Point 2012]{CHECKPOINT1}
+\abntrefinfo{Point}{POINT}{2012a}
+{POINT, C. \emph{Check Point Full Disk Encryption}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www.checkpoint.com/products/full-disk-encryption/index.html$>$.}
+
+\bibitem[Point 2012]{CHECKPOINT2}
+\abntrefinfo{Point}{POINT}{2012b}
+{POINT, C. \emph{Security Gateways}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www.layer8-it.net/l8/index.php/sv/checkpoint-security$>$.}
+
+\bibitem[Rocha 2008]{SYMANPRO}
+\abntrefinfo{Rocha}{ROCHA}{2008}
+{ROCHA, C. F.~P. da. \emph{Problemas com o Symantec Endpoint Protection 11.0}.
+  2008.
+Dispon{\'\i}vel em:
+  $<$http://carlosfprocha.com/blogs/paleo/archive/2008/02/08/problemas-com-o-s%
+ymantec-endpoint-protection-11-0.aspx$>$.}
+
+\bibitem[Rodrigues 2012]{DWKS}
+\abntrefinfo{Rodrigues}{RODRIGUES}{2012a}
+{RODRIGUES, R. \emph{Brasil é líder em vírus que roubam dados bancários, diz
+  pesquisa}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://idgnow.uol.com.br/seguranca/2010/08/24/brasil-e-lider-em-virus-que%
+-roubam-dados-bancarios-diz-pesquisa/$>$.}
+
+\bibitem[Rodrigues 2012]{SWKK}
+\abntrefinfo{Rodrigues}{RODRIGUES}{2012b}
+{RODRIGUES, R. \emph{Quer ser um cibercriminoso? Crackers brasileiros agora
+  oferecem curso online}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://idgnow.uol.com.br/seguranca/2012/01/17/quer-ser-um-cibercriminoso-%
+crackers-brasileiros-agora-oferecem-curso-online/$>$.}
+
+\bibitem[Schweitzer 2003]{SCH2003}
+\abntrefinfo{Schweitzer}{SCHWEITZER}{2003}
+{SCHWEITZER, D. \emph{Incident Response: Computer Forensics Toolkit}. [S.l.]:
+  Wiley, 2003.
+ISBN 9780764526367.}
+
+\bibitem[Symantec 2011]{SYMANTECREL2011}
+\abntrefinfo{Symantec}{SYMANTEC}{2011}
+{SYMANTEC. Relatório sobre segurança da informação nas empresas.
+2011.}
+
+\bibitem[Symantec 2012]{ENDPOINTD1}
+\abntrefinfo{Symantec}{SYMANTEC}{2012a}
+{SYMANTEC. \emph{FAQ Customer Installations Issues with Resolutions}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www.symantec.com/business/support/endpointsecurity/sep11\_faq\_cus%
+tomer-installations-issues-with-resolutions\_int\_112007\%20partner(3)).pdf$>$%
+.}
+
+\bibitem[Symantec 2012]{SYMANTEC}
+\abntrefinfo{Symantec}{SYMANTEC}{2012b}
+{SYMANTEC. \emph{Symantec Web Site}. 2012.
+Dispon{\'\i}vel em: $<$http://www.symantec.com/pt/br/$>$.}
+
+\bibitem[Symantec 2012]{NORTON}
+\abntrefinfo{Symantec}{SYMANTEC}{2012c}
+{SYMANTEC, N. \emph{Norton Cybercrime Report: The Shocking Scale of
+  Cybercrime}. 2012.
+Dispon{\'\i}vel em: $<$http://uk.norton.com/cybercrimereport/promo$>$.}
+
+\bibitem[Systems 2012]{ACIPAYMENT}
+\abntrefinfo{Systems}{SYSTEMS}{2012}
+{SYSTEMS, A.~P. \emph{ACI Proactive Risk Manager}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www.aciworldwide.com/en/Products-and-services/Payments-fraud/Fraud%
+-detection-and-AML/Proactive-Risk-Manager.aspx$>$.}
+
+\bibitem[TECH102742 2012]{ENDPOINTD2}
+\abntrefinfo{TECH102742}{TECH102742}{2012}
+{TECH102742. \emph{Windows Servers stop accepting network connections with
+  Symantec Endpoint Protection 11.0 installed}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://service1.symantec.com/SUPPORT/ent-security.nsf/docid/2007102613484%
+948$>$.}
+
+\bibitem[Teixeira 2011]{PL27903}
+\abntrefinfo{Teixeira}{TEIXEIRA}{2011}
+{TEIXEIRA, P. \emph{PL 2793/2011}. 2011.
+Dispon{\'\i}vel em:
+  $<$http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=52%
+9011$>$.}
+
+\bibitem[Toolkit 2012]{TOOLKIT}
+\abntrefinfo{Toolkit}{TOOLKIT}{2012}
+{TOOLKIT, B.~O. \emph{Anti-Fraud Software Solutions}. 2012.
+Dispon{\'\i}vel em:
+  $<$http://www.toolkit.com/small\_business\_guide/sbg.aspx?nid=P14\_3230$>$.}
+
+\bibitem[Turban, McLean e Wetherbe 2004]{TURBAN}
+\abntrefinfo{Turban, McLean e Wetherbe}{TURBAN; MCLEAN; WETHERBE}{2004}
+{TURBAN, E.; MCLEAN, E.; WETHERBE, J. \emph{Tecnologia da Informação para
+  Gestão: Transformando os Negócios na Economia Digital}. 3ª. ed. São Paulo:
+  Bookman, 2004.}
+
+\bibitem[UnoData 2012]{CANITANTISPAM}
+\abntrefinfo{UnoData}{UNODATA}{2012}
+{UNODATA. \emph{AntiSpam and Internet Solutions}. 2012.
+Dispon{\'\i}vel em: $<$http://www.unodata.com.br/software\_antispam$>$.}
+
+\bibitem[Wikip\'edia 2012]{WIKCI}
+\abntrefinfo{Wikip\'edia}{WIKIP\'EDIA}{2012}
+{WIKIP\'EDIA. \emph{Crime inform\'atico}. 2012.
+Dispon{\'\i}vel em: $<$http://pt.wikipedia.org/wiki/Crime\_inform\'atico$>$.}
+
+\end{thebibliography}

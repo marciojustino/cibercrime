@@ -1,0 +1,782 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.19)  13 NOV 2012 23:02
+entering extended mode
+ %&-line parsing enabled.
+**fraudes.tex
+(./fraudes.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, portuguese, loaded.
+(/usr/share/texmf/tex/latex/abntex/abnt.cls
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Document Class: abnt 2006/09/09 v1.32 Classe abnt (NBR6024, NBR6027, NBR6028, N
+BR14724)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count79
+\calc@Bcount=\count80
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count81
+\calc@Cskip=\skip43
+)
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count82
+\mult@box=\box26
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count83
+\c@collectmore=\count84
+\doublecol@number=\count85
+\multicoltolerance=\count86
+\multicolpretolerance=\count87
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count88
+\c@finalcolumnbadness=\count89
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+)
+(/usr/share/texmf/tex/latex/abntex/abntex-abrev.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntex-abrev 2005/11/14 v1.4 Abreviacoes
+
+(/usr/share/texmf/tex/latex/abntex/nbr10522-1988.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:19
+88)
+)
+(/usr/share/texmf/tex/latex/abntex/abntex-abrev-pt_BR.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: abntex-abrev-pt_BR.def 2005/11/14 v1.3 definicao de abntex-abrev, traduca
+o de termos en_US/pt_BR
+))
+(/usr/share/texmf/tex/latex/abntex/abntex-text.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntex-text 2005/11/14 v1.1 abnTeX text replacements
+
+(/usr/share/texmf/tex/latex/abntex/abntex-text-pt_BR.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: abntex-text-pt_BR.def 2005/12/21 v1.2 Definicao de nomes em Portugues/Bra
+sil (pt_BR)
+))
+(/usr/share/texmf/tex/latex/abntex/abntex-default-design.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntex-default-design 2005/06/22 v1.2 Definicoes de design padrao do a
+bntex
+
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+
+
+Package relsize Warning: Failed to get list of font sizes.
+(relsize)                Falling back to old definition. on input line 81.
+
+)
+\ABNTanapindent=\skip46
+\ABNTsignwidth=\skip47
+\ABNTsignthickness=\skip48
+\ABNTsignskip=\skip49
+) (/usr/share/texmf/tex/latex/abntex/nbr6027-1989.def)
+(/usr/share/texmf/tex/latex/abntex/nbr14724-2001.def)
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count90
+\c@chapter=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen112
+)
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+(/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen113
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(/usr/share/texmf/tex/latex/abntex/abnt-alf.sty
+Package: abnt-alf 2002/06/24
+
+(/usr/share/texmf/tex/latex/abntex/abntcite.sty
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+Package: abntcite 2006/04/25 v1.30 Chamadas de referencias no texto (NBR10520, 
+NBR10522)
+\minimumbiblabelwidth=\skip52
+\ABCIauxlen=\skip53
+\c@ABCIaux=\count101
+\c@ABCImax=\count102
+
+(/usr/share/texmf/tex/latex/abntex/nbr10520-2002.def
+(/usr/share/texmf/tex/latex/abntex/cvs-id.def)
+File: nbr10520-2002.def 2006/04/25 v1.4 Definicoes para abntcite (NBR10520:2002
+)
+)
+\biblabelsep=\skip54
+LaTeX Info: Redefining \newblock on input line 466.
+LaTeX Info: Redefining \cite on input line 493.
+\ABCItoken=\toks17
+))
+(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texmf-texlive/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count103
+\pfg@scount=\count104
+\pfg@temp=\write3
+)
+(/usr/share/texmf-texlive/tex/latex/caption/caption2.sty
+Package: caption2 2008/07/01 v2.2c Customising captions (AS)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 209.
+\captionlinewidth=\dimen122
+\realcaptionwidth=\dimen123
+)
+(/usr/share/texmf-texlive/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip55
+\afterepigraphskip=\skip56
+\epigraphwidth=\skip57
+\epigraphrule=\skip58
+) (./fraudes.aux
+(./capa.aux) (./folharosto.aux) (./pre_introducao.aux) (./introducao.aux)
+(./objetivos.aux) (./cibercrime.aux) (./arquitetura.aux) (./metodologia.aux)
+(./prevencao.aux) (./legislacao.aux) (./combate.aux) (./produtos.aux)
+(./cases.aux) (./recuperacao_perdas.aux) (./conclusao.aux))
+\openout1 = `fraudes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 17.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\big@size=\dimen124
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen125
+\scratchbox=\box52
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen126
+\MPnumerator=\count109
+\everyMPtoPDFconversion=\toks19
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\openout2 = `capa.aux'.
+
+ (./capa.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 17
+.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 17
+.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 17
+.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 17
+.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 17.
+
+(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 17.
+ [0
+Non-PDF special ignored!
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `folharosto.aux'.
+
+
+(./folharosto.tex [1
+
+
+])
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 25.
+ (./fraudes.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 2.
+ [2
+
+
+])
+\tf@toc=\write4
+\openout4 = `fraudes.toc'.
+
+ [3]
+\openout2 = `pre_introducao.aux'.
+
+ (./pre_introducao.tex [4
+
+
+])
+\openout2 = `introducao.aux'.
+
+
+(./introducao.tex) [5
+
+
+
+
+]
+\openout2 = `objetivos.aux'.
+
+ (./objetivos.tex) [6
+
+
+
+]
+\openout2 = `cibercrime.aux'.
+
+ (./cibercrime.tex
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+[7
+
+
+
+] [8]
+<Figuras/estatisticas-quadro-geral-incidentes.jpg, id=35, 481.8pt x 361.35pt>
+File: Figuras/estatisticas-quadro-geral-incidentes.jpg Graphic file (type jpg)
+
+<use Figuras/estatisticas-quadro-geral-incidentes.jpg>
+<Figuras/estatisticas-fraudes-reportadas.jpg, id=36, 481.8pt x 180.675pt>
+File: Figuras/estatisticas-fraudes-reportadas.jpg Graphic file (type jpg)
+
+<use Figuras/estatisticas-fraudes-reportadas.jpg> [9 <./Figuras/estatisticas-qu
+adro-geral-incidentes.jpg> <./Figuras/estatisticas-fraudes-reportadas.jpg>]
+<Figuras/riscos-em-ordem-de-importancia.jpg, id=40, 734.745pt x 353.06906pt>
+File: Figuras/riscos-em-ordem-de-importancia.jpg Graphic file (type jpg)
+
+<use Figuras/riscos-em-ordem-de-importancia.jpg>
+<Figuras/ameacas-significantes.jpg, id=41, 778.40813pt x 436.63126pt>
+File: Figuras/ameacas-significantes.jpg Graphic file (type jpg)
+
+<use Figuras/ameacas-significantes.jpg> [10 <./Figuras/riscos-em-ordem-de-impor
+tancia.jpg> <./Figuras/ameacas-significantes.jpg>]
+<Figuras/CompraBot01.jpg, id=45, 451.6875pt x 249.93375pt>
+File: Figuras/CompraBot01.jpg Graphic file (type jpg)
+
+<use Figuras/CompraBot01.jpg> [11 <./Figuras/CompraBot01.jpg>]
+<Figuras/CompraBot02.jpg, id=49, 451.6875pt x 201.75375pt>
+File: Figuras/CompraBot02.jpg Graphic file (type jpg)
+
+<use Figuras/CompraBot02.jpg>) [12 <./Figuras/CompraBot02.jpg>]
+\openout2 = `arquitetura.aux'.
+
+
+(./arquitetura.tex
+Cap\'{\i }tulo 2.
+) [13
+
+
+
+]
+\openout2 = `metodologia.aux'.
+
+ (./metodologia.tex
+Cap\'{\i }tulo 3.
+[14
+
+
+
+] <Figuras/info-caso-dieckmann01.jpg, id=60, 845.1575pt x 636.3775pt>
+File: Figuras/info-caso-dieckmann01.jpg Graphic file (type jpg)
+
+<use Figuras/info-caso-dieckmann01.jpg> [15 <./Figuras/info-caso-dieckmann01.jp
+g>] <Figuras/anatomyhackold.jpg, id=64, 401.5pt x 285.065pt>
+File: Figuras/anatomyhackold.jpg Graphic file (type jpg)
+
+<use Figuras/anatomyhackold.jpg> [16 <./Figuras/anatomyhackold.jpg>]
+<Figuras/anatomyhacknew.jpg, id=68, 401.5pt x 280.04625pt>
+File: Figuras/anatomyhacknew.jpg Graphic file (type jpg)
+
+<use Figuras/anatomyhacknew.jpg> [17 <./Figuras/anatomyhacknew.jpg>]
+<Figuras/ganhe_dinheiro.png, id=72, 451.6875pt x 276.03125pt>
+File: Figuras/ganhe_dinheiro.png Graphic file (type png)
+
+<use Figuras/ganhe_dinheiro.png>) [18 <./Figuras/ganhe_dinheiro.png>]
+\openout2 = `prevencao.aux'.
+
+
+(./prevencao.tex
+Cap\'{\i }tulo 4.
+[19
+
+
+
+]
+Overfull \hbox (8.69547pt too wide) in paragraph at lines 35--36
+\OT1/ptm/m/n/12 ci-bern[]eticas, o Mo-ni-tor das Frau-des (PA-RODI, 2012) dis-p
+o-ni-bi-liza informa[][]oes para identifica[][]ao
+ []
+
+<Figuras/prevencao-monitor-das-fraudes.jpg, id=82, 919.435pt x 412.54124pt>
+File: Figuras/prevencao-monitor-das-fraudes.jpg Graphic file (type jpg)
+
+<use Figuras/prevencao-monitor-das-fraudes.jpg>
+Overfull \hbox (4.47226pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+
+Overfull \hbox (20.16058pt too wide) in paragraph at lines 52--53
+[]\OT1/ptm/m/n/12 As nor-mas da fa-mi-lia ISO 27000[] fo-ram de-sen-vol-vi-das 
+para abran-ger a seguran[]a da informa[][]ao
+ []
+
+[20 <./Figuras/prevencao-monitor-das-fraudes.jpg>] [21]) [22]
+\openout2 = `legislacao.aux'.
+
+ (./legislacao.tex
+Cap\'{\i }tulo 5.
+) [23
+
+
+
+]
+\openout2 = `combate.aux'.
+
+ (./combate.tex
+Cap\'{\i }tulo 6.
+
+Overfull \hbox (18.14891pt too wide) in paragraph at lines 7--9
+[]\OT1/ptm/m/n/12 Alguns []org[]aos con-tri-buem no com-bate ao crime ci-bern[]
+etico, re-por-tando in-ci-den-tes de seguran[]a
+ []
+
+[24
+
+
+
+]
+Overfull \hbox (12.11334pt too wide) in paragraph at lines 37--38
+[]\OT1/ptm/m/n/12 Pol[]^^Pticas go-ver-na-men-tais: legisla[][]ao, pol[]^^Pcias
+ es-pe-ci-a-li-za-das, de-par-ta-men-tos de investiga[][]ao
+ []
+
+) [25]
+\openout2 = `produtos.aux'.
+
+ (./produtos.tex
+Cap\'{\i }tulo 7.
+
+Overfull \hbox (6.69981pt too wide) in paragraph at lines 16--17
+[]\OT1/ptm/m/n/12 Em ge-ral, ape-sar dos softwa-res apre-sen-ta-rem di-fe-ren-t
+es fa-bri-can-tes, am-bos ofe-re-cem servi[]os
+ []
+
+[26
+
+
+
+] <Figuras/capa-symantec.jpg, id=105, 422.57875pt x 575.14874pt>
+File: Figuras/capa-symantec.jpg Graphic file (type jpg)
+
+<use Figuras/capa-symantec.jpg> [27] [28 <./Figuras/capa-symantec.jpg>]
+[29]
+Overfull \hbox (21.07951pt too wide) in paragraph at lines 99--100
+\OT1/ptm/m/n/12 mento dis-po-ni-bi-li-zado pela Sy-man-tec que re-solve o pro-b
+lema das pas-tas ina-cess[]^^Pveis (TECH102742,
+ []
+
+<Figuras/capa-cisco.jpg, id=115, 113.9895pt x 83.439pt>
+File: Figuras/capa-cisco.jpg Graphic file (type jpg)
+
+<use Figuras/capa-cisco.jpg> [30 <./Figuras/capa-cisco.jpg>]
+<Figuras/servidor-cisco-nac.jpg, id=120, 1327.96124pt x 758.835pt>
+File: Figuras/servidor-cisco-nac.jpg Graphic file (type jpg)
+
+<use Figuras/servidor-cisco-nac.jpg>
+<Figuras/funcionamento-nac-cisco.jpg, id=121, 518.6878pt x 319.94531pt>
+File: Figuras/funcionamento-nac-cisco.jpg Graphic file (type jpg)
+
+<use Figuras/funcionamento-nac-cisco.jpg> [31]
+Overfull \hbox (9.77214pt too wide) in paragraph at lines 163--164
+[]\OT1/ptm/m/n/12 A rede co-or-po-ra-tiva deve es-tar sem-pre bem es-tru-tu-rad
+o com o ser-vi-dor e ali-nhado informa[][]oes
+ []
+
+<Figuras/capa-checkpoint.jpg, id=125, 88.038pt x 54.8595pt>
+File: Figuras/capa-checkpoint.jpg Graphic file (type jpg)
+
+<use Figuras/capa-checkpoint.jpg> [32 <./Figuras/servidor-cisco-nac.jpg> <./Fig
+uras/funcionamento-nac-cisco.jpg>] [33 <./Figuras/capa-checkpoint.jpg>]
+[34] <Figuras/ferramentas-ACI-Proactive.jpg, id=135, 542.025pt x 382.42876pt>
+File: Figuras/ferramentas-ACI-Proactive.jpg Graphic file (type jpg)
+
+<use Figuras/ferramentas-ACI-Proactive.jpg>
+<Figuras/ferramentas-canit-antispam.jpg, id=136, 229.85875pt x 119.44624pt>
+File: Figuras/ferramentas-canit-antispam.jpg Graphic file (type jpg)
+
+<use Figuras/ferramentas-canit-antispam.jpg>) [35 <./Figuras/ferramentas-ACI-Pr
+oactive.jpg>] [36 <./Figuras/ferramentas-canit-antispam.jpg>]
+\openout2 = `cases.aux'.
+
+ (./cases.tex
+Cap\'{\i }tulo 8.
+) [37
+
+
+
+]
+\openout2 = `recuperacao_perdas.aux'.
+
+ (./recuperacao_perdas.tex
+Cap\'{\i }tulo 9.
+<Figuras/estatisticas-fraudes-cartoes.jpg, id=147, 427.5975pt x 270.25969pt>
+File: Figuras/estatisticas-fraudes-cartoes.jpg Graphic file (type jpg)
+
+<use Figuras/estatisticas-fraudes-cartoes.jpg> [38
+
+
+
+ <./Figuras/estatisticas-fraudes-cartoes.jpg>]
+<Figuras/perdas-sofridas.jpg, id=151, 728.7225pt x 441.14813pt>
+File: Figuras/perdas-sofridas.jpg Graphic file (type jpg)
+
+<use Figuras/perdas-sofridas.jpg>
+<Figuras/custos-dos-ciberataques.jpg, id=152, 714.41907pt x 448.67625pt>
+File: Figuras/custos-dos-ciberataques.jpg Graphic file (type jpg)
+
+<use Figuras/custos-dos-ciberataques.jpg> [39 <./Figuras/perdas-sofridas.jpg>]
+<Figuras/proc-recupera-preliminar01.png, id=156, 767.86874pt x 273.27094pt>
+File: Figuras/proc-recupera-preliminar01.png Graphic file (type png)
+
+<use Figuras/proc-recupera-preliminar01.png>
+<Figuras/proc-recupera01.png, id=157, 767.86874pt x 321.45094pt>
+File: Figuras/proc-recupera01.png Graphic file (type png)
+
+<use Figuras/proc-recupera01.png>) [40 <./Figuras/custos-dos-ciberataques.jpg> 
+<./Figuras/proc-recupera-preliminar01.png>] [41 <./Figuras/proc-recupera01.png>
+]
+\openout2 = `conclusao.aux'.
+
+ (./conclusao.tex
+Cap\'{\i }tulo 10.
+) [42
+
+
+
+] (./fraudes.bbl
+Underfull \hbox (badness 3919) in paragraph at lines 25--30
+[]\OT1/ptm/m/n/12 BASTOS, P. S. S.; PE-REIRA, R. M. Frau-des 
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 25--30
+\OT1/ptm/m/n/12 eletr[]Onicas: O que h[]A de novo? 2007. Dis-pon[]^^Pvel em: 
+ []
+
+
+Overfull \hbox (93.9303pt too wide) in paragraph at lines 25--30
+\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 http://www.sergiomariz.com/mcc.uerj/index2
+.php?option=com[]docman&task=doc[]view&gid=20&Itemid=51$\OML/ztmcm/m/it/12 >$\O
+T1/ptm/m/n/12 .  
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 59--63
+[]\OT1/ptm/m/n/12 CISCO. \OT1/ptm/m/it/12 Cisco NAC Ap-pli-ance Agents\OT1/ptm/
+m/n/12 . 2012. Dis-pon[]^^Pvel em: 
+ []
+
+
+Overfull \hbox (60.55774pt too wide) in paragraph at lines 59--63
+\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 http://www.cisco.com/en/US/docs/security/n
+ac/appliance/configuration[]guide/461/cam/m[]webagt.html$\OML/ztmcm/m/it/12 >$\
+OT1/ptm/m/n/12 .  
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 85--87
+[]\OT1/ptm/m/n/12 COBIT. \OT1/ptm/m/it/12 CO-BIT 5\OT1/ptm/m/n/12 . [s.n.], 201
+2. Dis-pon[]^^Pvel em: 
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 94--99
+[]\OT1/ptm/m/n/12 GROSSMANN, L. O. \OT1/ptm/m/it/12 Cri-mes ci-bern[]eticos: Po
+l[]^^Pcia Fe-de-ral 
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 94--99
+\OT1/ptm/m/it/12 faz teste de larga es-cala com Rio+20\OT1/ptm/m/n/12 . 2012. D
+is-pon[]^^Pvel em: 
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 102--104
+[]\OT1/ptm/m/n/12 IC3. \OT1/ptm/m/it/12 In-ter-net Crime Com-plaint Cen-ter\OT1
+/ptm/m/n/12 . 2012. Dis-pon[]^^Pvel em: 
+ []
+
+[43
+
+
+]
+Underfull \hbox (badness 6775) in paragraph at lines 107--111
+[]\OT1/ptm/m/n/12 ISO. \OT1/ptm/m/it/12 ISO 27000\OT1/ptm/m/n/12 . 2009. Dis-po
+n[]^^Pvel em: 
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 154--158
+[]\OT1/ptm/m/n/12 PIAUHYLINO, L. \OT1/ptm/m/it/12 PL 84/1999\OT1/ptm/m/n/12 . 1
+999. Dis-pon[]^^Pvel em: 
+ []
+
+[44]
+Underfull \hbox (badness 2762) in paragraph at lines 249--253
+[]\OT1/ptm/m/n/12 TEIXEIRA, P. \OT1/ptm/m/it/12 PL 2793/2011\OT1/ptm/m/n/12 . 2
+011. Dis-pon[]^^Pvel em: 
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 273--275
+[]\OT1/ptm/m/n/12 WIKIP[]EDIA. \OT1/ptm/m/it/12 Crime in-form[]atico\OT1/ptm/m/
+n/12 . 2012. Dis-pon[]^^Pvel em: 
+ []
+
+)
++-------------------------------------------------------------------+
+| Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
+|                  http://abntex.codigolivre.org.br                 |
++-------------------------------------------------------------------+
+[45] (./fraudes.aux (./capa.aux) (./folharosto.aux) (./pre_introducao.aux)
+(./introducao.aux) (./objetivos.aux) (./cibercrime.aux) (./arquitetura.aux)
+(./metodologia.aux) (./prevencao.aux) (./legislacao.aux) (./combate.aux)
+(./produtos.aux) (./cases.aux) (./recuperacao_perdas.aux) (./conclusao.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3711 strings out of 495041
+ 57015 string characters out of 1181897
+ 112957 words of memory out of 3000000
+ 6648 multiletter control sequences out of 15000+50000
+ 51548 words of font info for 105 fonts, out of 3000000 for 9000
+ 30 hyphenation exceptions out of 8191
+ 36i,12n,41p,1845b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
+{
+/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/
+utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmbi8a.pfb></usr/sh
+are/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on fraudes.pdf (46 pages, 2339494 bytes).
+PDF statistics:
+ 203 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
